@@ -1,9 +1,5 @@
 # Hi, I'm Julien 👋
  
-I build end-to-end AI systems — from on-device LLM inference on Android to self-hosted model-serving backends with search, RAG, and agentic research.
- 
-Mostly self-taught over the last few years, with a background in economics. I learn by building things properly rather than following tutorials, and I write up the reasoning and the problems along the way.
- 
 🌐 **[jvarnica.github.io](https://jvarnica.github.io)** — projects, write-ups, and demos
  
 ---
